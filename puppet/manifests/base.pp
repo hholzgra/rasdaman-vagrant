@@ -2,7 +2,7 @@
 # setup variables
 #
 
-$sourcedir    = '/home/vagrant/rasdaman'
+$srcdir       = '/home/vagrant/rasdaman'
 
 $git_username = 'Hartmut Holzgraefe'
 $git_email    = 'harmtut@php.net'
